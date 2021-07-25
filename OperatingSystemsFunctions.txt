@@ -1,0 +1,1 @@
+One function of an operating system is executing programs and software. Every OS needs to be able to run specific code that can be designed for it and some operating systems do it differently. In order to execute software you also need to have a user interface so you can actually interact with the programs. 
